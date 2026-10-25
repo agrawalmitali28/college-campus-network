@@ -106,6 +106,13 @@ The repository should contain the following project artifacts, using the actual 
 - Project presentation (`.pptx`)
 - `README.md`
 
+## 🎥 Project Demo
+
+Watch the project demonstration to see the expanded network topology, DHCP configuration, website access, security features, and packet flow in Cisco Packet Tracer.
+
+▶️ **YouTube Demo:** [Watch the College Campus Network Demo]
+https://www.youtube.com/watch?v=pDAp-vFcabw
+
 ## 🔮 Future Enhancements
 
 - Configure and verify HTTPS.
